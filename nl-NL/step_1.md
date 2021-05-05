@@ -1,5 +1,5 @@
-To run your project in full-screen mode in Scratch, go to the area above the Stage and click the button with four arrows that point outwards. This is the **Full Screen Control** icon.
+Om je project op volledig scherm in Scratch uit te voeren, ga je naar het gebied boven het werkgebied en klik je op de knop met vier pijlen die naar buiten wijzen. Dit is het pictogram **Volledig scherm besturing**.
 
-![The 'Full Screen Control' icon highlighted above the Stage, towards the right-hand corner.](images/fullscreen_frank.png)
+![Het pictogram 'Volledig scherm besturing' staat boven het werkgebied, in de rechterhoek.](images/fullscreen_frank.png)
 
-To go back to the regular view, click on the **Full Screen Control** icon again. It will have four arrows that point inwards.
+Om terug te gaan naar de normale weergave, klik je nogmaals op het **Volledig scherm besturing** pictogram. Het heeft vier pijlen die naar binnen wijzen.
