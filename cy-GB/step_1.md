@@ -1,5 +1,5 @@
-To run your project in full-screen mode in Scratch, go to the area above the Stage and click on the icon with four arrows that point outwards. This is the **Full Screen Control** icon:
+I redeg dy brosiect yn y modd sgrin lawn yn Scratch, cer i'r ardal uwchben y Llwyfan a chlicio ar yr eicon gyda phedwar saeth sy'n pwyntio am allan. Dyma'r eicon **Rheoli Sgrin Lawn**:
 
-![The 'Full Screen Control' icon highlighted, above the Stage, towards the right-hand corner.](images/fullscreen_frank.png)
+![Yr eicon 'Rheoli Sgrin Lawn' wedi'i amlygu, uwchben y Llwyfan, tuag at y gornel dde.](images/fullscreen_frank.png)
 
-To exit full-screen mode, click on the **Full Screen Control** icon again. It will have four arrows that point inwards.
+I adael y modd sgrin lawn, clicia ar yr eicon **Rheoli Sgrin Lawn** eto. Bydd ganddi bedair saeth sy'n pwyntio am i mewn.
