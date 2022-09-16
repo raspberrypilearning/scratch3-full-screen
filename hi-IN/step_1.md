@@ -1,5 +1,5 @@
-To run your project in full-screen mode in Scratch, go to the area above the Stage and click on the icon with four arrows that point outwards. This is the **Full Screen Control** icon:
+स्टेज के ऊपर के क्षेत्र में बाहर की ओर संकेत करने वाले चार तीरों वाले बटन पर क्लिक करके आप Scratch में अपने प्रोजेक्ट को फ़ुल-स्क्रीन मोड में Run कर सकते हैं । यह **Full Screen Control** आइकन है:
 
-![The 'Full Screen Control' icon highlighted, above the Stage, towards the right-hand corner.](images/fullscreen_frank.png)
+![स्टेज के ऊपर दाहिने कोने में 'Full Screen Control' आइकन हाइलाइट हुआ ।](images/fullscreen_frank.png)
 
-To exit full-screen mode, click on the **Full Screen Control** icon again. It will have four arrows that point inwards.
+**Full Screen Control** आइकन पर फिर से क्लिक करके फ़ुल-स्क्रीन मोड से बाहर आ सकते हैं । इसमें चार तीर होंगे जो अंदर की तरफ़ इशारा करते हैं।
