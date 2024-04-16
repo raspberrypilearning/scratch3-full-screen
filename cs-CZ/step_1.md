@@ -1,5 +1,5 @@
-To run your project in full-screen mode in Scratch, go to the area above the Stage and click on the icon with four arrows that point outwards. This is the **Full Screen Control** icon:
+Chcete-li svůj projekt spustit v režimu celé obrazovky ve Scratch, přejděte do oblasti nad vymezenou plochou a klikněte na ikonu se čtyřmi šipkami směřujícími ven. Toto je ikona **Ovládání celé obrazovky**:
 
-![The 'Full Screen Control' icon highlighted, above the Stage, towards the right-hand corner.](images/fullscreen_frank.png)
+![Ikona „Ovládání celé obrazovky“ zvýrazněná nad vymezenou plochou směrem k pravému rohu.](images/fullscreen_frank.png)
 
-To exit full-screen mode, click on the **Full Screen Control** icon again. It will have four arrows that point inwards.
+Chcete-li ukončit režim celé obrazovky, klikněte znovu na ikonu **Ovládání celé obrazovky**. Bude mít čtyři šipky směřující dovnitř.
