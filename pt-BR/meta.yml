@@ -5,7 +5,7 @@ description: Entre e saia do modo visualização em tela cheia no Scratch
 version: 4
 listed: false
 copyedit: false
-last_tested: "2021-03-23"
+last_tested: "23-03-2021"
 steps:
   - 
     title: Execute um projeto Scratch em modo de tela cheia
